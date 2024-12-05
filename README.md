@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋</h1>
+<h3 align="center">A passionate .NET developer</h3>
 
-<!--
-**ALLENYL30/ALLENYL30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Azure Functions, Azure Container App
+- 🌏 I'm language available in **English/Chinese**
+- ✍ I'm blogging on [ALLENYL30.github.io](https://ALLENYL30.github.io)
+- 💬 Ask me about C#, .net
+- 📫 How to reach me: **zzyliu71@gmail.com**
+- ⚡ Fun fact: I don't drink JAVA🍵
 
-Here are some ideas to get you started:
+<p align="center"> 
+ <strong>
+  Professional skills
+  </strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,docker,github,rider,kafka,linux,redis,react,docker,java,spring,git,aws,js,html,css,was0m)](https://skillicons.dev)
