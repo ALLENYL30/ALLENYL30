@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Azure Functions, Azure Container App
 - 🌏 I'm language available in **English/Chinese**
-- ✍ I'm blogging on [ALLENYL30.github.io](https://ALLENYL30.github.io)
+- ✍ I'm blogging on [allendev.net](https://www.allendev.net/)
 - 💬 Ask me about C#, .net
 - 📫 How to reach me: **zzyliu71@gmail.com**
 - ⚡ Fun fact: I don't drink JAVA🍵
